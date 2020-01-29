@@ -1,11 +1,11 @@
 class Dog 
   
   def name=(dog_name)
-    this_dogs_name = dog_name
+    dog_has_a_name = dog_name
   end
  
   def name
-    this_dogs_name
+    dog_has_a_name
   end
   
   def bark 
